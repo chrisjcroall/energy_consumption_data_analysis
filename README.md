@@ -1,4 +1,5 @@
 # energy_comsump
+![herobanner_enerukishiyongliangnozhuangkuang_0](https://github.com/chrisjcroall/energy_comsump/assets/126267745/e57ae2f1-f746-4a7c-9f27-2da2b0a31da6)
 
 A Time Series is a Python-based machine learning project focused on time series forecasting for Energy Consumption using the powerful XGBoost algorithm. The project encompasses various essential steps, beginning with data preprocessing to handle missing values, eliminate duplicates, and prepare the dataset for analysis.
 
